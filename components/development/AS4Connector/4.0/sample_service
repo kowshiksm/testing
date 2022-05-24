@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<namedConfiguration CLASS_NAME="com.fiorano.edbc.as4connector.model.AS4ConnectionConfiguration">
+    <maxIdleTimeout>300000</maxIdleTimeout>
+    <sendURI>1</sendURI>
+</namedConfiguration>

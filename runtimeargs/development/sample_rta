@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<runtime-arguments>
+  <runtime-argument inmemory="false" mandatory="false" name="JVM_PARAMS" type="java.lang.String">
+    <value>-client -DLOG_TO_STREAM=true -Xrs -XX:MetaspaceSize=128m -XX:MaxMetaspaceSize=256m</value>
+  </runtime-argument>
+  <runtime-argument inmemory="false" mandatory="false" name="JAVA_HOME" type="java.lang.String">
+    <value></value>
+  </runtime-argument>
+</runtime-arguments>

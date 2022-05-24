@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workflow>
+  <dbcallout-parameter name="Param1" datatype="varchar" type="IN" value="" valuesource="Body"/>
+  <dbcallout-parameter name="Param2" datatype="varchar" type="IN" value="" valuesource="Body"/>
+  <dbcallout-parameter name="Param3" datatype="varchar" type="IN" value="" valuesource="Body"/>
+  <dbcallout-parameter name="Param4" datatype="varchar" type="IN" value="" valuesource="Body"/>
+  <dbcallout-parameter name="Param5" datatype="varchar" type="IN" value="" valuesource="Body"/>
+  <dbcallout-parameter name="Param6" datatype="datetime" type="IN" value="" valuesource="Body"/>
+  <dbcallout-parameter name="Param7" datatype="int" type="IN" value="" valuesource="Body"/>
+  <dbcallout-parameter name="RtnOut" datatype="int" type="IN" value="" valuesource="Body"/>
+</workflow>

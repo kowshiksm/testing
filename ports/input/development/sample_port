@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<subscriber messageSelector="" sessions="1">
+  <transaction enabled="false"/>
+  <subscription durable="false"/>
+</subscriber>
